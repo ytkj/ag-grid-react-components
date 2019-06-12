@@ -31,6 +31,9 @@ AgGrid framework components for React, powered by TypeScript.
   ``` 
 
 
+![RankFilter screenshot](https://ytkj.github.io/ag-grid-react-components/images/rank-filter.png)
+
+
 ### SetFilter
 
 1. import `setFilterFactory`
@@ -58,6 +61,9 @@ AgGrid framework components for React, powered by TypeScript.
       {...props}
   />
   ```
+
+![SetFilter screenshot](https://ytkj.github.io/ag-grid-react-components/images/set-filter.png)
+
 
 ## Test
 
