@@ -30,9 +30,14 @@ AgGrid framework components for React, powered by TypeScript.
   />
   ``` 
 
+#### Result
 
 ![RankFilter screenshot](https://ytkj.github.io/ag-grid-react-components/images/rank-filter.png)
 
+
+#### Server-side
+
+`'rank'` filter type can be handled by [sqlalchemy-ag-grid](https://github.com/ytkj/sqlalchemy-ag-grid) with Python + Flask + SQLAlchemy stack.
 
 ### SetFilter
 
@@ -61,6 +66,8 @@ AgGrid framework components for React, powered by TypeScript.
       {...props}
   />
   ```
+
+#### Result
 
 ![SetFilter screenshot](https://ytkj.github.io/ag-grid-react-components/images/set-filter.png)
 
