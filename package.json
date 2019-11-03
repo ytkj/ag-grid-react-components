@@ -1,6 +1,6 @@
 {
     "name": "@ytkj/ag-grid-react-components",
-    "version": "0.0.3",
+    "version": "0.0.1",
     "description": "AgGrid framework components for React, powered by TypeScript.",
     "keywords": [
         "AgGrid",
