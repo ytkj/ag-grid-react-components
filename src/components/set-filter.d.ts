@@ -17,7 +17,7 @@ export declare function setFilterFactory(options: SelectOption[]): {
         render(): React.ReactNode;
         context: any;
         setState<K extends "select">(state: SetFilterState | ((prevState: Readonly<SetFilterState>, props: Readonly<IFilterParams>) => SetFilterState | Pick<SetFilterState, K>) | Pick<SetFilterState, K>, callback?: () => void): void;
-        forceUpdate(callBack?: () => void): void;
+        forceUpdate(callback?: () => void): void;
         readonly props: Readonly<IFilterParams> & Readonly<{
             children?: React.ReactNode;
         }>;
